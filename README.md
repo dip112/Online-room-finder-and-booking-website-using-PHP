@@ -3,5 +3,5 @@ Discover your perfect rental room effortlessly. Find rooms based on location, pr
 <br/>
 ### Home Page
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://github.com/dip112/Rental-room-finding-website-using-PHP/assets/51451728/c0bcbfe2-a237-45c6-8634-93b547242231)" />
+  <img src="https://github.com/dip112/Rental-room-finding-website-using-PHP/assets/51451728/c0bcbfe2-a237-45c6-8634-93b547242231" />
 </p>
